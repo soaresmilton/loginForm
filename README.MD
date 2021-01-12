@@ -42,4 +42,33 @@ Este é um projeto totalmente focado para o front-end de uma aplicação. Os con
 Além disso, podemos fazer algumas transições com essas pseudoclasses que deixaram o formulário com um toque especial de estilização.
 
 Por fim, ressalto que é um projeto super gostoso de se fazer, pelo qual podemos consolidar os conhecimentos básicos de CSS, bem como inicializar nos conceitos intermediários a respeito da ferramenta.
+
+<div align="center">
+<img src="assets/images/resultado-final-form.png">
+</div>
+</p>
+
+# Desenvolvimento:
+<h3>
+Este projeto foi desenvolvido utilizando:
+</h3>
+
+<p>
+<ul>
+<li> HTML 5
+</li>
+<li> CSS 3
+</li>
+</ul>
+</p>
+
+<p>
+
+Projeto idealizado por<strong> Giovanna Moeller</strong>.
+
+ </p>
+ <p>
+
+Projeto desenvolvido por <strong>Milton Soares</strong>.
+
 </p>
